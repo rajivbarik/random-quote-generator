@@ -8,11 +8,11 @@ class QuoteGenerator extends Component {
         this.state= {Quote: "Be Noble",  Author: "Rajiv"};
         this.quotes = [ { Quote : "Be the change that you would like to see in world", Author: "Gandhi" },
     { Quote : "Truth always prevails", Author: "Upanishad" },
-    {Quote : "Earth has enough to meet all humans needs but not greed", Author: "Gandhi"},
+    {Quote : "Earth has enough to meet all humans needs but not greed", Author: "Mahtma Gandhi"},
     {Quote: "Desire is the source of all pain", Author: "Buddha"},
     {Quote: "Practice to steady your mind", Author: "Geeta"},
     {Quote: "Let your desires not cloud your mind", Author: "Upanishad"},
-    {Quote: "Dont drown in the sorrows of the world", Author:"Geeta"},
+    {Quote: "Dont drown in the sorrows of the world", Author:"Bagvad Geeta"},
     {Quote: "Enjoy the life, you have only one", Author: "Anonymous"}
     ]
         
